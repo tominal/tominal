@@ -1,4 +1,10 @@
-### Hi there 👋
+[![@tominal's Holopin board](https://holopin.me/tominal)](https://holopin.io/@tominal)
+
+### Hey y'all!
+
+You can find more information about me on my website before I update this README with more info.
+
+#### [https://thomasj.me](https://thomasj.me)
 
 <!--
 **tominal/tominal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
